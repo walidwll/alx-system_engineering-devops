@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
+# connect to web server 
 ssh -i ~/.ssh/school ubuntu@100.26.154.155
